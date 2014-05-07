@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A11CD041-CAA4-4B28-BFAB-75AC4B97A7F3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>courseReg</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7A95F9FD-71F7-4355-9F60-AFC8899480AD</key>
+		<string>https://github.com/GitHubMrWhy/courseReg.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>courseReg.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7A95F9FD-71F7-4355-9F60-AFC8899480AD</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/GitHubMrWhy/courseReg.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7A95F9FD-71F7-4355-9F60-AFC8899480AD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7A95F9FD-71F7-4355-9F60-AFC8899480AD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>courseReg</string>
+		</dict>
+	</array>
+</dict>
+</plist>
