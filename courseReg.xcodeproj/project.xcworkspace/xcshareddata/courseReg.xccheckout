@@ -10,31 +10,43 @@
 	<string>courseReg</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>7A95F9FD-71F7-4355-9F60-AFC8899480AD</key>
+		<key>09C7A6CAED7C89D3B9D6EA63B5554A3BE0D81C55</key>
+		<string>https://github.com/GitHubMrWhy/courseRegUpdatedVersion.git</string>
+		<key>9F47286DBD9CD176C811FA337B056DF6564DA713</key>
 		<string>https://github.com/GitHubMrWhy/courseReg.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>courseReg.xcodeproj/project.xcworkspace</string>
+	<string>courseReg.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>7A95F9FD-71F7-4355-9F60-AFC8899480AD</key>
+		<key>09C7A6CAED7C89D3B9D6EA63B5554A3BE0D81C55</key>
 		<string>../..</string>
+		<key>9F47286DBD9CD176C811FA337B056DF6564DA713</key>
+		<string>../../../courseReg</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/GitHubMrWhy/courseReg.git</string>
+	<string>https://github.com/GitHubMrWhy/courseRegUpdatedVersion.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>7A95F9FD-71F7-4355-9F60-AFC8899480AD</string>
+	<string>09C7A6CAED7C89D3B9D6EA63B5554A3BE0D81C55</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>7A95F9FD-71F7-4355-9F60-AFC8899480AD</string>
+			<string>9F47286DBD9CD176C811FA337B056DF6564DA713</string>
 			<key>IDESourceControlWCCName</key>
 			<string>courseReg</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>09C7A6CAED7C89D3B9D6EA63B5554A3BE0D81C55</string>
+			<key>IDESourceControlWCCName</key>
+			<string>courseRegUpdatedVersion</string>
 		</dict>
 	</array>
 </dict>

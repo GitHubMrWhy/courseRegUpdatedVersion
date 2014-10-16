@@ -9,7 +9,7 @@
 #import "API.h"
 
 #define kAPIHost @"http://mingshengxu.com"
-#define kAPIPath @"promos/"
+#define kAPIPath @"oops/service/"
 #define imgPath @"img/"
 @implementation API
 
